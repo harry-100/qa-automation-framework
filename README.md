@@ -8,10 +8,7 @@ Navigate to working directory
 ```
 cd qa
 ```
-Cloning the repo
-```
-git clone git@github.com:privatepracticesaas/qa.git
-```
+
 ### Install the required framework and libraries
 Install python and virtual enviroment
 ```
