@@ -1,0 +1,39 @@
+{
+  "folders":
+  [
+    {
+      "path": "."
+    }
+  ],
+  "settings":
+  {
+    "always_prompt_for_file_reload": true,
+    "atomic_save": true,
+    "auto_indent": true,
+    "default_encoding": "UTF-8",
+    "detect_indentation": false,
+    "draw_indent_guides": true,
+    "ensure_newline_at_eof_on_save": true,
+    "file_exclude_patterns":
+    [
+      "*.pyc",
+      ".DS_Store",
+      "*.sublime-workspace"
+    ],
+    "line_numbers": true,
+    "rulers":
+    [
+      92,
+      99
+    ],
+    "scroll_past_end": true,
+    "show_encoding": true,
+    "smart_indent": true,
+    "tab_completion": true,
+    "tab_size": 2,
+    "translate_tabs_to_spaces": false,
+    "trim_automatic_white_space": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+  }
+}

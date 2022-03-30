@@ -1,0 +1,13 @@
+[flake8]
+max-line-length = 99
+exclude =
+  *.pyc,
+  __pycache__
+filename =
+  *.py
+ignore =
+  W191, # Allows for tabs instead of 4 spaces
+  E402, # Allows us to do sys.path.append() at beginning of file
+  W504, # Allows multiple lined operations
+  W605, # Flake8 rambled on about something irrelevant
+  E722  # Allows us to use generic "except"

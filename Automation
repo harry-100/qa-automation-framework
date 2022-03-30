@@ -1,0 +1,35 @@
+2021-03-23 08:43:24 - BasePage - INFO: [pass] entered sandy.smith2602@gmail.com in username
+2021-03-23 08:43:25 - BasePage - INFO: [pass] entered qa-ss26022020 in password
+2021-03-23 08:43:26 - BasePage - INFO: [pass] *[data-testid='containers_login_sign-in'] present
+2021-03-23 08:43:26 - BasePage - INFO: [pass] clicked *[data-testid='containers_login_sign-in']
+2021-03-23 08:43:28 - BasePage - INFO: [pass] *[data-testid='components_side-menu_navigation_settings'] present
+2021-03-23 08:43:29 - BasePage - INFO: [pass] clicked *[data-testid='components_side-menu_navigation_settings']
+2021-03-23 08:43:29 - BasePage - INFO: [pass] //span[text()='Secure Messaging'] present
+2021-03-23 08:43:30 - BasePage - INFO: [pass] clicked //span[text()='Secure Messaging']
+2021-03-23 08:43:30 - BasePage - INFO: [pass] //input[@name='office_admins' and @id='0']/../.. present
+2021-03-23 08:43:30 - BasePage - INFO: [pass] clicked //input[@name='office_admins' and @id='0']/../..
+2021-03-23 08:43:30 - BasePage - INFO: [pass] //button[text()='Save'] present
+2021-03-23 08:43:31 - BasePage - INFO: [pass] clicked //button[text()='Save']
+2021-03-23 08:43:31 - BasePage - INFO: [pass] *[data-testid='containers_top-menu_actions_more-options'] present
+2021-03-23 08:43:32 - BasePage - INFO: Retry click 0
+2021-03-23 08:43:33 - BasePage - INFO: Retry click 1
+2021-03-23 08:43:34 - BasePage - INFO: Retry click 2
+2021-03-23 08:43:36 - BasePage - INFO: Retry click 3
+2021-03-23 08:43:36 - BasePage - INFO: [pass] clicked *[data-testid='containers_top-menu_actions_more-options']
+2021-03-23 08:43:36 - BasePage - INFO: [pass] *[data-testid='components_client-action-menu_sign-out'] present
+2021-03-23 08:43:37 - BasePage - INFO: [pass] clicked *[data-testid='components_client-action-menu_sign-out']
+2021-03-23 08:43:37 - BasePage - INFO: [pass] //button[@type='button' and contains(.,'Back to Sign In')] present
+2021-03-23 08:43:38 - BasePage - INFO: [pass] clicked //button[@type='button' and contains(.,'Back to Sign In')]
+2021-03-23 08:43:50 - BasePage - INFO: [pass] entered harvinder.shah@gmail.com in username
+2021-03-23 08:43:50 - BasePage - INFO: [pass] entered Ace13579 in password
+2021-03-23 08:43:50 - BasePage - INFO: [pass] *[data-testid='containers_login_sign-in'] present
+2021-03-23 08:43:51 - BasePage - INFO: [pass] clicked *[data-testid='containers_login_sign-in']
+2021-03-23 08:43:51 - BasePage - INFO: [pass] *[data-testid='components_side-menu_navigation_clients'] present
+2021-03-23 08:43:52 - BasePage - INFO: [pass] clicked *[data-testid='components_side-menu_navigation_clients']
+2021-03-23 08:43:54 - BasePage - INFO: length of //div[@data-testid='components_table']/div[2]/div/div[3] --> 21
+2021-03-23 08:43:54 - BasePage - INFO: [pass] //div[@data-testid='components_table']/div[2]/div[2]/div[3] present
+2021-03-23 08:43:55 - BasePage - INFO: [pass] clicked //div[@data-testid='components_table']/div[2]/div[2]/div[3]
+2021-03-23 08:44:16 - BasePage - INFO: [pass] *[data-testid='containers_client_navigation_secure-messaging'] present
+2021-03-23 08:44:16 - BasePage - INFO: [pass] clicked *[data-testid='containers_client_navigation_secure-messaging']
+2021-03-23 08:44:17 - BasePage - INFO: [pass] //span[@class='Card__ClientName-xi2w08-3 lbrbRa'] present
+2021-03-23 08:44:17 - BasePage - INFO: [pass] clicked //span[@class='Card__ClientName-xi2w08-3 lbrbRa']

@@ -1,0 +1,34 @@
+{
+	"baseUrl": "some_url",
+	"username": "user_name_1",
+	"password": "password_1",
+	"client_portal_url":"another_url",
+	"rootTestCaseDir": "testCases",
+	"rootHtmlDir": "reports/assets",
+	"dateFormat": "%Y-%m-%d %H:%M:%S",
+	"path": "testData/test_data.xlsx",
+	"path_1": "testdata/test_data_1.xlsx",
+	"wait": "WebDriverWait(self.driver, 10)",
+	"broswerMapping": {
+		"chrome87": {
+			"browser": "chrome",
+			"driver": "chromedriver-87",
+			"binary": "Google Chrome-87.app/Contents/MacOS/Google Chrome"
+		},
+		"chrome79": {
+			"browser": "chrome",
+			"driver": "chromedriver-79",
+			"binary": "Google Chrome-79.app/Contents/MacOS/Google Chrome"
+		},
+		"firefox": {
+			"browser": "firefox",
+			"driver": "geckodriver",
+			"binary": null
+		},
+		"safari": {
+			"browser": "safari",
+			"driver": "safaridriver",
+			"binary": null
+		}
+	}
+}

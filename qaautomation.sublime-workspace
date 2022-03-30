@@ -1,0 +1,1476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"medicine_name"
+			],
+			[
+				"number",
+				"number_medications"
+			],
+			[
+				"clear",
+				"clear_filter_element"
+			],
+			[
+				"cle",
+				"clear_filter_xpath"
+			],
+			[
+				"data",
+				"data-testid"
+			],
+			[
+				"re",
+				"remaining_medications_element"
+			],
+			[
+				"his",
+				"historical_medication_element"
+			],
+			[
+				"hiso",
+				"historical_medication_element"
+			],
+			[
+				"sess",
+				"session_notes_element"
+			],
+			[
+				"clk_",
+				"clk_filter_category"
+			],
+			[
+				"filt",
+				"filter_category_0_element"
+			],
+			[
+				"fil",
+				"filter_category_0_element"
+			],
+			[
+				"filter",
+				"filter_category_0_css"
+			],
+			[
+				"filter_",
+				"filter_category_css"
+			],
+			[
+				"windo",
+				"window_name_1"
+			],
+			[
+				"tit",
+				"title_name"
+			],
+			[
+				"pa",
+				"page_source"
+			],
+			[
+				"se",
+				"session_notes_element"
+			],
+			[
+				"si",
+				"side_menu"
+			],
+			[
+				"len",
+				"len_side_menu"
+			],
+			[
+				"new",
+				"new_frequency"
+			],
+			[
+				"medi",
+				"medication_name"
+			],
+			[
+				"e",
+				"end_date"
+			],
+			[
+				"phar",
+				"pharma_data_page_obj"
+			],
+			[
+				"med",
+				"medication_name"
+			],
+			[
+				"current",
+				"current_medication_info"
+			],
+			[
+				"curr",
+				"current_medication_info"
+			],
+			[
+				"functio",
+				"functionB"
+			],
+			[
+				"email",
+				"email_content"
+			],
+			[
+				"imap",
+				"imap_obj"
+			],
+			[
+				"tab",
+				"tab_historical_medication_xpath"
+			],
+			[
+				"pre",
+				"presence_of_element_located"
+			],
+			[
+				"pha",
+				"pharma_data_page_obj"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"pharm",
+				"pharma_data_page_obj"
+			],
+			[
+				"clk",
+				"clk_medications_btn"
+			],
+			[
+				"c",
+				"client_page_obj"
+			],
+			[
+				"sel_",
+				"sel_client_element"
+			],
+			[
+				"sel",
+				"sel_client_xpath"
+			],
+			[
+				"input",
+				"input_category_element"
+			],
+			[
+				"dd",
+				"dd_category_element"
+			],
+			[
+				"btn",
+				"btn_contact_clinical_element"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"Log",
+				"LogGen"
+			],
+			[
+				"str",
+				"strftime"
+			],
+			[
+				"da",
+				"date_time"
+			],
+			[
+				"meeting",
+				"meeting_date"
+			],
+			[
+				"end",
+				"end_year"
+			],
+			[
+				"exp",
+				"exp_date_format"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"end_",
+				"end_date_format1"
+			],
+			[
+				"st",
+				"strftime"
+			],
+			[
+				"day",
+				"day_adjust"
+			],
+			[
+				"s",
+				"strftime"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"start_",
+				"start_week_day"
+			],
+			[
+				"sta",
+				"start_week_day"
+			],
+			[
+				"today",
+				"today_date"
+			],
+			[
+				"We",
+				"webdriverWait"
+			],
+			[
+				"month",
+				"month_view_info"
+			],
+			[
+				"lo",
+				"login_page_obj"
+			],
+			[
+				"ther",
+				"therapist_ids"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"tr",
+				"translation"
+			],
+			[
+				"plan",
+				"plan_value"
+			],
+			[
+				"count",
+				"country"
+			],
+			[
+				"COUNT",
+				"COUNTRIES"
+			],
+			[
+<<<<<<< Updated upstream
+				"c",
+				"clinics"
+			],
+			[
+				"clini",
+				"clinic_id"
+=======
+				"btn_hidden_day",
+				"btn_hidden_days_element"
+>>>>>>> Stashed changes
+			],
+			[
+				"search",
+				"search_clinic"
+			],
+			[
+				"get",
+				"gettherapist"
+			],
+			[
+				"personal_ses",
+				"personal_session_colour"
+			],
+			[
+				"inclu",
+				"include_logo"
+			],
+			[
+				"include",
+				"include_data"
+			],
+			[
+				"conn",
+				"clinic_db_conn"
+			],
+			[
+				"templ",
+				"template"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"read",
+				"read_unicode_file_from_disk"
+			],
+			[
+				"base",
+				"base64_decode_data"
+			],
+			[
+				"read_from",
+				"read_binary_file_from_disk"
+			],
+			[
+				"non",
+				"nonsessionnotes"
+			],
+			[
+				"data_",
+				"data_url"
+			],
+			[
+				"oab_lo",
+				"oab_logo_url"
+			],
+			[
+				"oa",
+				"oab_favicon"
+			],
+			[
+				"data",
+				"data_url"
+			],
+			[
+				"clin",
+				"clinic_db"
+			],
+			[
+				"mim",
+				"mime_type"
+			],
+			[
+				"clinic",
+				"clinic_db"
+			],
+			[
+				"securecon",
+				"secureconversationparticipants"
+			],
+			[
+				"form",
+				"formats"
+			],
+			[
+				"strip",
+				"stripeApi"
+			],
+			[
+				"stripe",
+				"stripepaymentmethods"
+			],
+			[
+				"test",
+				"stripe_test_keys"
+			],
+			[
+				"in",
+				"invoices"
+			],
+			[
+				"clinic_",
+				"clinic_id"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"Str",
+				"StripeApi"
+			],
+			[
+				"oab_",
+				"oab_url"
+			],
+			[
+				"check",
+				"checknum"
+			],
+			[
+				"USER_",
+				"USER_THERAPIST"
+			],
+			[
+				"revisi",
+				"revision_ids"
+			],
+			[
+				"origin",
+				"origin_id"
+			],
+			[
+				"secure_",
+				"secure_conversation_id"
+			],
+			[
+				"cre",
+				"created_portal_user_id"
+			],
+			[
+				"secure",
+				"secureconversations"
+			],
+			[
+				"parti",
+				"participant_id"
+			],
+			[
+				"secure_mess",
+				"secure_message_id"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"conversa",
+				"conversation_ids"
+			],
+			[
+				"partic",
+				"participant"
+			],
+			[
+				"receipt",
+				"receipt_id"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"therapist_superv",
+				"therapist_supervisor_only"
+			],
+			[
+				"securec",
+				"secureconversationparticipants"
+			],
+			[
+				"verifyportaluserto",
+				"verifyportalusertosecureconversation"
+			],
+			[
+				"verifyportalus",
+				"verifyportaluseridownsconversation"
+			],
+			[
+				"getsecureconversationse",
+				"getsecureconversationsettings"
+			],
+			[
+				"group",
+				"group_name"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"WHEN",
+				"where_clause_negative"
+			],
+			[
+				"portal",
+				"portal_user_id"
+			],
+			[
+				"port",
+				"portal_user_id"
+			],
+			[
+				"portaul",
+				"portal_user_id"
+			],
+			[
+				"porta",
+				"portal_user_id"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"enable",
+				"secure_messaging_enabled"
+			],
+			[
+				"where",
+				"where_clause_positive"
+			],
+			[
+				"partici",
+				"participant_id"
+			],
+			[
+				"secureme",
+				"securemessages"
+			],
+			[
+				"pa",
+				"participant"
+			],
+			[
+				"pos",
+				"where_clause_positive"
+			],
+			[
+				"sec",
+				"secure_conversation_id"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"secure_con",
+				"secure_conversation_id"
+			],
+			[
+				"secureco",
+				"secureconversationparticipant"
+			],
+			[
+				"part",
+				"participant"
+			],
+			[
+				"the",
+				"therapist_id"
+			],
+			[
+				"spe",
+				"speaker_type"
+			],
+			[
+				"_ispa",
+				"_ispartialpaid"
+			],
+			[
+				"or",
+				"originalAmountCharged"
+			],
+			[
+				"ori",
+				"originalTaxCharged"
+			],
+			[
+				"USE",
+				"USER_THERAPIST"
+			],
+			[
+				"DEL",
+				"deleted_at"
+			],
+			[
+				"amount",
+				"amount_charged"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"seri",
+				"service_names"
+			],
+			[
+				"thera",
+				"therapists"
+			],
+			[
+				"getroo",
+				"getroomlogic"
+			],
+			[
+				"roo",
+				"room_id"
+			],
+			[
+				"room",
+				"room_ids"
+			],
+			[
+				"amo",
+				"amountCharged"
+			],
+			[
+				"discu",
+				"discounts"
+			],
+			[
+				"pro",
+				"proto\tPrototype"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"dis",
+				"discount"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"REQUEST_ADJUS",
+				"REQUEST_ADJUST_BALANCE_SUCCESS"
+			],
+			[
+				"REQUEST_ADJU",
+				"REQUEST_ADJUST_BALANCE_FAIL"
+			],
+			[
+				"billa",
+				"billable_id"
+			],
+			[
+				"unp",
+				"unpaidItem"
+			],
+			[
+				"un",
+				"unpaidItem"
+			],
+			[
+				"REQUEST_VIEW",
+				"REQUEST_VIEW_ADJUST_INVOICE_SUCCESS"
+			],
+			[
+				"OPEN_A",
+				"OPEN_AVAILABILITY_VIEW_FAIL"
+			],
+			[
+				"isRe",
+				"isRenderingAvailability"
+			],
+			[
+				"OPEN_AV",
+				"OPEN_AVAILABILITY_VIEW_SUCCESS"
+			],
+			[
+				"onO",
+				"onOpenAvailabilityViewSuccess"
+			],
+			[
+				"OPEN",
+				"OPEN_ROOM_VIEW_FAIL"
+			],
+			[
+				"hand",
+				"handleDeletePaymentMethod"
+			],
+			[
+				"iro",
+				"ironmanJsmesUrl"
+			],
+			[
+				"acce",
+				"accessToken"
+			],
+			[
+				"webSc",
+				"webSocketUsers"
+			],
+			[
+				"webSe",
+				"webSocketRecvConn"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"su",
+				"supervisor_id"
+			],
+			[
+				"USER",
+				"USER_AGENT"
+			],
+			[
+				"US",
+				"USER_AGENT"
+			],
+			[
+				"ba",
+				"backupsToRemove"
+			],
+			[
+				"days",
+				"days"
+			],
+			[
+				"messa",
+				"messages"
+			],
+			[
+				"me",
+				"messagesEnd"
+			],
+			[
+				"se",
+				"secureConversation"
+			],
+			[
+				"Ch",
+				"ChatListWrapper"
+			],
+			[
+				"REQUEST_CREATE_SECURE_CON",
+				"REQUEST_CREATE_SECURE_CONVERSATION_SUCCESS"
+			],
+			[
+				"secure_m",
+				"secure_message_status"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"created",
+				"created_at"
+			],
+			[
+				"secure_mes",
+				"secure_message_speaker_type"
+			],
+			[
+				"C",
+				"ChatStatus"
+			]
+		]
+	},
+<<<<<<< Updated upstream
+=======
+	"buffers":
+	[
+		{
+			"file": "run.sh",
+			"settings":
+			{
+				"buffer_size": 3438,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testCases/client/contact_clinical/desktop/filter_historical_medication_test.py",
+			"settings":
+			{
+				"buffer_size": 3554,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testCases/client/contact_clinical/mobile_add_current_medication_test.py",
+			"settings":
+			{
+				"buffer_size": 3231,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testCases/client/contact_clinical/mobile_add_historical_medication_test.py",
+			"settings":
+			{
+				"buffer_size": 3301,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+>>>>>>> Stashed changes
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"doc",
+				"PyYapf: Format Document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+<<<<<<< Updated upstream
+	"file_history":
+	[
+		"/Users/james/workspace/qaautomation/run.py",
+		"/Users/james/workspace/qaautomation/testCases/conftest.py",
+		"/Users/james/workspace/qaautomation/config/config.json",
+		"/Users/james/workspace/qaautomation/utilities/custom_logger.py",
+		"/Users/james/Desktop/HARV.TXT",
+		"/Users/james/workspace/qaautomation/testCases/calendar/full_calendar/desktop/calendar_weekly_view.py",
+		"/Users/james/workspace/qaautomation/requirements.txt",
+		"/Users/james/workspace/qaautomation/testCases/calendar/full_calendar/desktop/calendar_day_view.py",
+		"/Users/james/workspace/qaautomation/testCases/calendar/full_calendar/desktop/calendar_room_view.py",
+		"/Users/james/workspace/qaautomation/utilities/customLogger.py",
+		"/Users/james/workspace/qaautomation/binaries/mac/Google Chrome-67.app/Contents/Versions/67.0.3396.79/Google Chrome Framework.framework/Google Chrome Framework",
+		"/Users/james/mnt/dev/qaautomation/testCases/__init__.py",
+		"/Users/james/mnt/dev/qaautomation/bin/run.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/desktop/calendar_day_view.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/conftest.py",
+		"/Users/james/mnt/dev/qaautomation/config/config.json",
+		"/Users/james/mnt/dev/qaautomation/pageObjects/calendar/full_calendar/calender_page.py",
+		"/Users/james/mnt/dev/qaautomation/utilities/readProperties.py",
+		"/Users/james/Desktop/harv.txt",
+		"/Users/james/mnt/dev/qaautomation/utilities/customLogger.py",
+		"/Users/james/mnt/dev/qaautomation/utilities/testStatus.py",
+		"/Users/james/mnt/dev/qaautomation/utilities/XLUtility.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/mobile/mobile_edit_session.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/mobile/mobile_check_session_client.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/mobile/mobile_create_session.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/mobile/mobile_calendar_day_view.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/mobile/mobile_create_client_session.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/mobile/calendar_weekly_view.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/mobile/calendar_room_view.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/desktop/create_session.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/desktop/edit_session.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/desktop/create_client_session.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/desktop/check_session_client.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/desktop/calendar_room_view.py",
+		"/Users/james/mnt/dev/qaautomation/testCases/calendar/full_calendar/desktop/calendar_weekly_view.py",
+		"/Users/james/mnt/dev/qaautomation/pageObjects/calendar/full_calendar/login_page.py",
+		"/Users/james/mnt/dev/qaautomation/pageObjects/calendar/full_calendar/client_page.py",
+		"/Users/james/mnt/dev/qaautomation/.gitignore",
+		"/Users/james/mnt/dev/qaautomation/.flake8",
+		"/Users/james/mnt/dev/qaautomation/qaautomation.sublime-project",
+		"/Users/james/Downloads/icon.svg",
+		"/Volumes/james/rails-api/app/domains/integrations/slack/message_builder/url_detected.rb",
+		"/Volumes/james/rails-api/app/jobs/slack/send_url_detected_message_job.rb",
+		"/Volumes/james/rails-api/app/domains/integrations/slack/message_receiver.rb",
+		"/Volumes/james/rails-api/app/controllers/integrations/slack_controller.rb",
+		"/Volumes/james/rails-api/app/domains/integrations/slack/api.rb",
+		"/Volumes/james/rails-api/config/application.rb",
+		"/Volumes/james/rails-api/app/jobs/annotation_message_job.rb",
+		"/Volumes/james/rails-api/app/domains/integrations/slack/interactive_message_receiver.rb",
+		"/Users/james/mnt/dev/ironman/lib/therapists.py",
+		"/Users/james/mnt/dev/ironman/lib/users.py",
+		"/Users/james/mnt/dev/ironman/lib/client_request.py",
+		"/Users/james/mnt/dev/ironman/scripts/update_all_databases.py",
+		"/Users/james/Desktop/video/janus-html/videocalltest.js",
+		"/Users/james/Desktop/video/janus-html/videocalltest.html",
+		"/Users/james/Desktop/video/janus-html/echotest.html",
+		"/Users/james/Desktop/video/janus-html/janus.js",
+		"/Users/james/Desktop/video/janus-html/echotest.js",
+		"/Users/james/Desktop/video/install_janus.sh",
+		"/Users/james/mnt/dev/ironman/lib/receipts.py",
+		"/Users/james/mnt/dev/ironman/lib/invoices.py",
+		"/Users/james/mnt/dev/ironman/lib/clinic_request.py",
+		"/Users/james/mnt/dev/ironman/lib/payments.py",
+		"/Users/james/mnt/dev/ironman/lib/tax.py",
+		"/Users/james/Desktop/lewis.txt",
+		"/Users/james/mnt/dev/ironman/requirements.txt",
+		"/Users/james/mnt/dev/ironman/lib/documents.py",
+		"/Users/james/mnt/dev/ironman/lib/document_generator.py",
+		"/Users/james/mnt/dev/ironman/bin/cron.py",
+		"/Users/james/mnt/dev/ironman/lib/errors.py",
+		"/Users/james/mnt/dev/ironman/bin/ironman.py",
+		"/Users/james/mnt/dev/ironman/templates/email/email_owl.html",
+		"/Users/james/mnt/dev/ironman/templates/email/email_clinic.html",
+		"/Users/james/mnt/dev/ironman/lib/globalvars.py",
+		"/Users/james/mnt/dev/ironman/lib/messages.py",
+		"/Users/james/mnt/dev/ironman/templates/email/email_oab_link.html",
+		"/Users/james/mnt/dev/ironman/lib/stripeApi.py",
+		"/Users/james/mnt/dev/ironman/sql/migrations/047_feature_automated_customer_signups_stripe_352_2018-10-31.sql",
+		"/Users/james/mnt/dev/ironman/lib/stripe_request.py",
+		"/Users/james/mnt/dev/ironman/lib/locations.py",
+		"/Users/james/mnt/dev/ironman/lib/plans.py",
+		"/Users/james/mnt/dev/ironman/lib/clinics.py",
+		"/Users/james/mnt/dev/ironman/conf/ironman.conf.james.dev",
+		"/Users/james/mnt/dev/ironman/lib/file_request.py",
+		"/Users/james/mnt/dev/ironman/lib/file_legacy_request.py",
+		"/Users/james/mnt/dev/ironman/sql/migrations/052_high-priority-comments_530_2019-05-01.sql",
+		"/Users/james/mnt/dev/ironman/lib/drawn_notes.py",
+		"/Users/james/mnt/dev/ironman/sql/migrations/049_handwritten-notes_453_2019-01-31.sql",
+		"/Users/james/mnt/dev/ironman/migrations/migration_feature_automated-payments_352.py",
+		"/Users/james/mnt/dev/ironman/scripts/convert_solo_supers_from_group.py",
+		"/Users/james/mnt/dev/ironman/sql/schema.sql",
+		"/Users/james/mnt/dev/ironman/scripts/normalize_countries.py",
+		"/Users/james/mnt/dev/ironman/lib/clients.py",
+		"/Users/james/mnt/dev/ironman/scripts/instance_fix_client_country.py",
+		"/Users/james/mnt/dev/ironman/lib/faq_request.py",
+		"/Users/james/mnt/dev/ironman/lib/google_request.py",
+		"/Users/james/mnt/dev/ironman/lib/ping_request.py",
+		"/Users/james/mnt/dev/ironman/lib/ics_request.py",
+		"/Users/james/mnt/dev/ironman/lib/sms_request.py",
+		"/Users/james/mnt/dev/ironman/lib/securemessaging.py",
+		"/Users/james/mnt/dev/ironman/lib/base_request.py",
+		"/Users/james/mnt/dev/ironman/lib/other.py",
+		"/Users/james/mnt/dev/ironman/bin/google.py",
+		"/Users/james/mnt/dev/ironman/sql/migrations/047_preserve-therapist-signatures_238_2018-10-31.sql",
+		"/Users/james/mnt/dev/ironman/sql/migrations/041_integrated_payments_1164_2018-07-18.sql",
+		"/Users/james/mnt/dev/ironman/scripts/fix_broken_notes.py",
+		"/Users/james/mnt/dev/ironman/scripts/fix_missing_notes.py",
+		"/Users/james/mnt/dev/ironman/scripts/copy_database_files_to_system.py",
+		"/Users/james/mnt/dev/ironman/lib/notes.py",
+		"/Users/james/mnt/dev/ironman/.flake8",
+		"/Users/james/mnt/dev/ironman/lib/forms.py",
+		"/Users/james/mnt/dev/ironman/sql/migrations/052_faster-remanage-search_559.sql",
+		"/Users/james/mnt/dev/ironman/bin/remanage_search_cron.py",
+		"/Users/james/mnt/dev/ironman/migrations/migrate_faster-remanage-search_559.py",
+		"/Users/james/mnt/dev/ironman/sql/migrations/051_internal_file-server_536_2019-02-08.sql",
+		"/Users/james/mnt/dev/ironman/sql/047_feature_automated_customer_signups_stripe_352_2018-10-31.sql",
+		"/Users/james/mnt/dev/ironman/bin/derp.py",
+		"/Users/james/mnt/dev/ironman/sql/migrations/050_remove-creator-user-id_2019-03-19.sql",
+		"/Users/james/mnt/dev/ironman/lib/discounts.py",
+		"/Users/james/mnt/dev/ironman/sql/051_internal_file-server_536_2019-02-08.sql",
+		"/Users/james/mnt/dev/ironman/.gitignore",
+		"/Users/james/mnt/dev/ironman/bin/copy_database_files_to_system.py",
+		"/Users/james/mnt/dev/ironman/lib/file_request2.py",
+		"/Users/james/mnt/dev/ironman/lib/sessions.py",
+		"/Users/james/mnt/dev/ironman/lib/timezones.py",
+		"/Users/james/workspace/homework/review_polarity (1)/txt_sentoken/neg/cv000_29416.txt",
+		"/Users/james/mnt/dev/ironman/migrations/file_server2.py",
+		"/Users/james/mnt/dev/ironman/migrations/file_server.py"
+	],
+	"find":
+	{
+		"height": 43.0
+=======
+	"expanded_folders":
+	[
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/config",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/reports",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/reports/assets",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/__pycache__",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/desktop",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testData",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/utilities"
+	],
+	"file_history":
+	[
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/mobile_add_historical_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/add_historical_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/conftest.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/desktop/temp_filter_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/desktop/edit_current_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/desktop/add_current_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/desktop/add_historical_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/desktop/adding_end_date_current_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/pageObjects/client/contact_clinical/pharma_data_page.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/mobile_add_current_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/filter_historical_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/add_historical_medication_mobile_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/log/automation.log",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/pageObjects/calendar/full_calendar/login_page.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/add_current_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/edit_current_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_client_session_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_create_client_session_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/calendar_room_view_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_create_session_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/calendar_monthly_view_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session_2_email_confirm_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session_discount_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session_2_ac_no_email.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session_disocunt_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session_3_email_confirm_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/read_email_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session_2_no_email_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session_2_no_email.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/read_email.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/temporary/name_main_program.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/temporary/name_main_program",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/check_session_client_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/client/contact_clinical/add_medication_test.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/calendar_day_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/edit_session.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/run.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/utilities/custom_logger.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/temporary/temp_test2.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/temporary/test_TestCase002.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/calendar_weekly_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/config/config.json",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/check_session_client.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/harvinder.html",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_create_session.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_client_session.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/calendar_weekly_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_edit_session.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/calendar_hidden_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/calendar_therapist_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_calendar_day_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_calendar_therapist_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/calendar_room_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_calendar_hidden_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_calendar_room_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/pageObjects/calendar/full_calendar/calender_page.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_create_client_session.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_check_session_client.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/mobile/mobile_calendar_month_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/calendar_monthly_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/calendar_month_view.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/calendar/full_calendar/desktop/create_session.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/pageObjects/calendar/full_calendar/client_page.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/temporary/test_mobile_emulation.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/run.sh",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testCases/temporary/temp_test3.py",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/testData/test_data.xlsx",
+		"/Users/harvindershah/PycharmProjects/OwlAutomationTesting/utilities/XLUtility.py"
+	],
+	"find":
+	{
+		"height": 39.0
+>>>>>>> Stashed changes
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"page",
+			"isPythonFile",
+			"recursivelyListPythonFilesInDir",
+			"getPythonFilesForTest",
+			"signIn",
+			"log",
+			"log.info",
+			"request.cls.log",
+			"ogger.info",
+			"request.cls.logger",
+			"options.get",
+			"request.cls.",
+			"driver",
+			"binary",
+			"browser",
+			"'",
+			"request.cls.",
+			"logger",
+			"request.cls.",
+			"info",
+			"print(",
+			"binary",
+			"self.",
+			"self.driver",
+			"login_page_obj",
+			"getApplicationURL",
+			"ReadConfig",
+			"chrome_options",
+			" = ",
+			"one_time_setup",
+			"\"",
+			"data-testid=\"",
+			"\"",
+			"inputId=\"",
+			"load_workbook",
+			",",
+			"logging.",
+			"\t\t\t\t\t\t\t\t\t\t\t\t",
+			"datetime.",
+			"time.",
+			"th,",
+			",2,",
+			"th,",
+			"h,",
+			",2,",
+			"datetime.datetime",
+			"pytest.",
+			"datetime.datetime",
+			"time",
+			"day_of_week",
+			"=",
+			"pytest.",
+			"pytest",
+			"time",
+			"CalendarPage",
+			"LogGen",
+			",s",
+			"river,10",
+			"= ",
+			"hover = ",
+			"time.sleep",
+			"time.",
+			"time",
+			"ATH,sel",
+			"ver,10",
+			"over = ",
+			"hover = ",
+			"\t ",
+			"hover = ",
+			"hover",
+			"=  \"",
+			"Select",
+			"ReadConfig",
+			"webdriver",
+			"392DD8"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+<<<<<<< Updated upstream
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 48.0
+=======
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "run.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3144,
+								3144
+							]
+						],
+						"settings":
+						{
+							"SL.28.region_keys":
+							[
+							],
+							"SL.42.region_keys":
+							[
+							],
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "testCases/client/contact_clinical/desktop/filter_historical_medication_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3335,
+								3335
+							]
+						],
+						"settings":
+						{
+							"SL.54.region_keys":
+							[
+								"SL.flake8.Highlights.|332657279aac2cd7c2ace0c5624ff6d164278fdc39ca3ad7aceb254e78481395|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|93ac0bc20f2558aa20dc7d172f1a058c61746891796294e7cefabbfd266c247e|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|c02687c883728008d8aca229b630b9b38828d118e9f18b39010c923fb738f4cc|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|9d568525ae6776da7548de31ddf1394d0b6bdbe44017d5749f337c7c77834ef2|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1131.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "testCases/client/contact_clinical/mobile_add_current_medication_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1362,
+								1362
+							]
+						],
+						"settings":
+						{
+							"SL.31.region_keys":
+							[
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|4a95b8c699ce3c51ec73c2437c14af9eb5dc7be65c0b19ffd753e31e0415f4ab|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|caf332b7c8b0ea33248650720b13395f849644358b82894f7ad5ab4ee824cbc0|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|626ffaf3cec7707f207a906865c63313e4d216c979de13e33014a75cc6d82a59|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.58.region_keys":
+							[
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|4a95b8c699ce3c51ec73c2437c14af9eb5dc7be65c0b19ffd753e31e0415f4ab|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|626ffaf3cec7707f207a906865c63313e4d216c979de13e33014a75cc6d82a59|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|caf332b7c8b0ea33248650720b13395f849644358b82894f7ad5ab4ee824cbc0|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 193.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "testCases/client/contact_clinical/mobile_add_historical_medication_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1436,
+								1436
+							]
+						],
+						"settings":
+						{
+							"SL.35.region_keys":
+							[
+								"SL.flake8.Highlights.|23a972d4f8d2d20c10391b0e236e7933438ff72baa59ab966365e31811d777ff|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|d91ef423d64aea1e819ed7de59f9119d36bdc47e103315813df767d96bb896bd|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|b34d08b6b3047b28f70ca670e15f206ec91661ba1c89701d0de6c3c9244e756d|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 184.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+>>>>>>> Stashed changes
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+<<<<<<< Updated upstream
+		"height": 58.0
+=======
+		"height": 48.0
+>>>>>>> Stashed changes
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+<<<<<<< Updated upstream
+	"side_bar_width": 355.0,
+=======
+	"side_bar_width": 394.0,
+>>>>>>> Stashed changes
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
